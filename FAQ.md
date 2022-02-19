@@ -4,7 +4,7 @@ Thanks for asking. I did. I am a writer of raunchy stories with a sideline in co
 
 * **How did you make this?**
 
-You can see the source code for the app on [GitHub]().
+You can see the source code for the app on [GitHub](https://github.com/pickleherring/eroticabulary).
 
 * **What is the Literotica corpus?**
 

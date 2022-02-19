@@ -27,7 +27,7 @@ def load_data(filename):
     return pandas.read_csv(filename)
 
 
-#@streamlit.cache
+@streamlit.cache
 def load_explanation_text(filename):
     
     return open(filename, encoding='utf-8').read()
@@ -102,7 +102,12 @@ if raw_text:
         pattern = r'(?<=\W|^)' + name + '(?=\W|$)'
         text = regex.sub(pattern, '', text)
     
-    counts = get_ngrams.get_ngrams(text)
+    try:
+        counts = get_ngrams.get_ngrams(text)
+    except ValueError:
+        raw_text = ''
+
+if raw_text:
     
     df = pandas.merge(
         lit_counts,
