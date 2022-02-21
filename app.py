@@ -12,7 +12,7 @@ import get_ngrams
 
 PLACEHOLDER_TEXT = 'She breasted boobily to the stairs, and titted downwards.'
 
-N_EXCLUDED_TERMS = 3
+N_EXCLUDED_TERMS = 10
 
 N_TERMS_TO_SHOW = 10
 
