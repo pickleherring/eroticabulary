@@ -84,7 +84,7 @@ excluded = []
 for i in range(N_EXCLUDED_TERMS):
     name = streamlit.sidebar.text_input(str(i + 1), key=i).strip()
     if name:
-        excluded.append(name)
+        excluded.extend(set([name, name.lower(), name.capitalize(), name.title()]))
 
 
 # %% process user data
