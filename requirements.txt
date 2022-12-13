@@ -3,5 +3,5 @@ numpy
 pandas
 plotnine
 regex
-sklearn
+scikit-learn
 streamlit
