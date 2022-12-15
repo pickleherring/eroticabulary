@@ -1,6 +1,6 @@
 * **Who made this?**
 
-Thanks for asking. I did. I am a writer of raunchy stories with a sideline in computer stuff. You can find all my links and stories [here](https://nushara.com/pickleherring/links) (be warned, my web pages are NSFW!). If you want to tweet your results from the eroticabulary app you are welcome to tag me [@prehensileballs](https://twitter.com/prehensileballs).
+Thanks for asking. I did. I am a writer of raunchy stories with a sideline in computer stuff. You can find all my links and stories [here](https://linktr.ee/pickleherring) (be warned, my web pages are NSFW!). If you want to tweet your results from the eroticabulary app you are welcome to tag me [@prehensileballs](https://twitter.com/prehensileballs).
 
 * **How did you make this?**
 
